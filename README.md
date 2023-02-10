@@ -16,10 +16,10 @@ You can change port on `webpack.config.js`.
 
 Build project by `webpack.config.js`.
 
-### npm run build:prod
+### `npm run build:prod`
 
 Build project by `webpack.prod.config.js`.
 
-### npm run deploy
+### `npm run deploy`
 
 Build project by `webpack.prod.config.js` and deploy to firebase like this [https://react-0lolatw-webpack.web.app/](https://react-0lolatw-webpack.web.app/).
